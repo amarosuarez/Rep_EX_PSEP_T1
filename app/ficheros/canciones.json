@@ -1,0 +1,37 @@
+[
+        {
+            "id": 1,
+            "titulo": "Shape of You",
+            "genero": "Pop",
+            "artista_id": 101,
+            "duracion": "3:53"
+        },
+        {
+            "id": 2,
+            "titulo": "Blinding Lights",
+            "genero": "Synth-pop",
+            "artista_id": 102,
+            "duracion": "3:20"
+        },
+        {
+            "id": 3,
+            "titulo": "Hips Don't Lie",
+            "genero": "Reggaeton",
+            "artista_id": 103,
+            "duracion": "3:38"
+        },
+        {
+            "id": 4,
+            "titulo": "Rolling in the Deep",
+            "genero": "Soul",
+            "artista_id": 104,
+            "duracion": "3:48"
+        },
+        {
+            "id": 5,
+            "titulo": "Bad Guy",
+            "genero": "Electropop",
+            "artista_id": 105,
+            "duracion": "3:14"
+        }
+    ]

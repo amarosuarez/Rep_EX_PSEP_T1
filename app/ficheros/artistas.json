@@ -1,0 +1,32 @@
+[
+        {
+            "id": 101,
+            "nombre": "Ed Sheeran",
+            "nacionalidad": "Reino Unido",
+            "genero": "Pop"
+        },
+        {
+            "id": 102,
+            "nombre": "The Weeknd",
+            "nacionalidad": "Canadá",
+            "genero": "R&B, Synth-pop"
+        },
+        {
+            "id": 103,
+            "nombre": "Shakira",
+            "nacionalidad": "Colombia",
+            "genero": "Pop, Reggaeton"
+        },
+        {
+            "id": 104,
+            "nombre": "Adele",
+            "nacionalidad": "Reino Unido",
+            "genero": "Soul, Pop"
+        },
+        {
+            "id": 105,
+            "nombre": "Billie Eilish",
+            "nacionalidad": "Estados Unidos",
+            "genero": "Electropop, Indie pop"
+        }
+    ]
